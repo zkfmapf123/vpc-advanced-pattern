@@ -8,6 +8,10 @@
 
 [ingress-arch](./docs/INGRESS-ARCH.md)
 
+## LB Static Architecture
+
+[static-lb](./docs/STATIC_LB.md)
+
 ## VPC Gateway Pattern (Resource Gateway)
 
 ... 

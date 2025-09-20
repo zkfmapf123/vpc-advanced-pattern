@@ -22,5 +22,7 @@
 
 ## TGW Route Table
 
+- 각 Connection 당 Route Table 이 존재해야 함
+
 ![tgw rt](../public/tgw-rt.png)
 
